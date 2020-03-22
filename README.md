@@ -2,7 +2,7 @@
 Data Analysis of the evolution and propagation of coronavirus in Ecuador. 
 
 At this moment we have one python notebook BaseDeDatosCOVID_Ecuador in order to analyze the evolution of the COVID in Ecuador with a exponential model of growth. 
-Also, in the same script we have descriptive statistics of the evolution of COVID in the distincts provinces in Ecuador.
+Also, in the same script we have descriptive statistics of the evolution of COVID in the distinct provinces in Ecuador.
 This script is located in the folder PYTHON
 
 In other folder named PAPERS we have the articles and information that we going to use in the new models. 
