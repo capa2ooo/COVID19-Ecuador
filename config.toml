@@ -4,7 +4,7 @@ theme = "aafu-master"
 
 [params]
     title = "Aafu theme"
-    author = "Darshan Baral"
+    author = "Christian Palma"
     description = "Website title"
     copyright = "aaa"
 
@@ -28,8 +28,8 @@ theme = "aafu-master"
 
     # Profile section
     [params.profile]
-        name = "DOROCHENCHO."
-		tagline = "Pabol Sebastian"
+        name = "Christian Palma"
+		tagline = "Only one"
 		location = "Quito"
         photo = "dorochencho.PNG"
 
