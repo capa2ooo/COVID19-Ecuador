@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en-us"><head>
+  <title>Aafu theme</title>
+
+<meta name="theme-color" content="" />
+<meta charset="utf-8" />
+<meta content="width=device-width, initial-scale=1.0" name="viewport" />
+<meta name="description" content="Website title" />
+<meta name="author" content="Darshan Baral" />
+<meta name="generator" content="aafu theme by Darshan in Hugo 0.68.2" />        <link rel="apple-touch-icon" sizes="180x180" href="apple-touch-icon.png">        <link rel="icon" type="image/png" sizes="32x32" href="favicon-32x32.png">        <link rel="icon" type="image/png" sizes="16x16" href="favicon-16x16.png">        <link rel="manifest" href="site.webmanifest">        <link rel="mask-icon" href="safari-pinned-tab.svg" color="#252627">        <link rel="shortcut icon" href="favicon.ico">        
+
+
+  <link
+    rel="stylesheet"
+    href="/css/bootstrap/bootstrap.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="https://use.fontawesome.com/releases/v5.5.0/css/all.css"
+    integrity="sha384-B4dIYHKNBt8Bc12p+WXckhzcICo0wtJAoU8YZTY5qE0Id1GSseTk6S+L3BlXeVIU"
+    crossorigin="anonymous"
+  />
+  <link
+    rel="stylesheet"
+    href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css"
+  />
+  <link
+    rel="stylesheet"
+    href="//fonts.googleapis.com/css?family=Didact+Gothic%7CRoboto:400%7CRoboto+Mono"
+  />
+  <link rel="stylesheet" href="/css/aafu_light.css" />
+  <link rel="stylesheet" href="/css/aafu.css" />
+
+  <script>
+    var themeColor = document.querySelector("meta[name=theme-color]");
+    window.onload = () => {
+      themeColor.content = getComputedStyle(document.body)["background-color"];
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+    window.onresize = () => {
+      let defaultActivePanel = document.querySelector(".accordion.active");
+      if (defaultActivePanel) {
+        defaultActivePanel.nextElementSibling.style.maxHeight =
+          defaultActivePanel.nextElementSibling.scrollHeight + "px";
+      }
+    };
+  </script>
+</head>
+<body class="container">
+    <main style="min-height: calc(100vh - 60px);">
+      
+      <div class="d-flex flex-row row p-2">
+  <h3 class="main-menu mr-3">
+    <a href="https://www.example.org/">Home</a>
+  </h3>
+  <h3 class="main-menu mr-3">
+    <a href="/blog">Blog</a>
+  </h3>
+</div>
+
+      
+<h1 class="standard top-h1 mb-3">aliquam incididunt</h1>
+<div class="standard grid-container">
+  
+  <div class="index-box p-3 shadow rounded mb-4">
+    <h3>
+      <a href="/blog/post_1/">vestibulum vitae dictum aliqua phasellus magnis at</a>
+    </h3>
+    <p>Reading Time: 2 minutes</p><div class="mb-2">
+  <p class="mb-1">May 23, 2018</p>
+   
+  
+  <p class="metadata-value mb-1 taxa taxa-container-div list-categories">
+    Categories: 
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/categories/aliquam-auctor"
+      title="categories"
+    >aliquam auctor</a>
+    
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/categories/do"
+      title="categories"
+    >do</a>
+    
+  </p>
+  
+  
+  
+  <p class="metadata-value mb-1 taxa taxa-container-div list-tags">
+    Tags: 
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/tags/aliquam-incididunt"
+      title="tags"
+    >aliquam incididunt</a>
+    
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/tags/notes"
+      title="tags"
+    >notes</a>
+    
+    <a
+      class="pl-1 pr-1 rounded border border-secondary"
+      href="/tags/velit"
+      title="tags"
+    >velit</a>
+    
+  </p>
+  
+  
+</div>
+</div>
+  
+</div>
+<div class="mt-4 d-flex justify-content-center">
+  
+
+
+</div>
+
+    </main>
+    
+    <footer class=" mt-2 mb-4 text-center ">
+  <span class="markdownify">aaa</span>
+  <span >
+    &middot;
+    <i>
+      <a href="https://github.com/darshanbaral/aafu">
+        aafu
+      </a>
+    </i>
+    by
+    <a href="https://www.darshanbaral.com/">
+      darshan
+    </a>
+  </span>
+</footer>
+
+    
+  </body>
+</html>

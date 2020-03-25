@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://www.example.org/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aliquam auctor</title>
+      <link>https://www.example.org/categories/aliquam-auctor/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/categories/aliquam-auctor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>do</title>
+      <link>https://www.example.org/categories/do/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/categories/do/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>facilisi odio</title>
+      <link>https://www.example.org/categories/facilisi-odio/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/categories/facilisi-odio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>id</title>
+      <link>https://www.example.org/categories/id/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/categories/id/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>diam aliqua</title>
+      <link>https://www.example.org/categories/diam-aliqua/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/categories/diam-aliqua/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>fringilla</title>
+      <link>https://www.example.org/categories/fringilla/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/categories/fringilla/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

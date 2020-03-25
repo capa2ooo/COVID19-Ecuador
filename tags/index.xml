@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on </title>
+    <link>https://www.example.org/tags/</link>
+    <description>Recent content in Tags on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>aliquam incididunt</title>
+      <link>https://www.example.org/tags/aliquam-incididunt/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/aliquam-incididunt/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>notes</title>
+      <link>https://www.example.org/tags/notes/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/notes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>velit</title>
+      <link>https://www.example.org/tags/velit/</link>
+      <pubDate>Wed, 23 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/velit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>eu fames</title>
+      <link>https://www.example.org/tags/eu-fames/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/eu-fames/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>pharetra</title>
+      <link>https://www.example.org/tags/pharetra/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/pharetra/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>laoreet</title>
+      <link>https://www.example.org/tags/laoreet/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/laoreet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mollis urna</title>
+      <link>https://www.example.org/tags/mollis-urna/</link>
+      <pubDate>Sat, 06 Jan 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/tags/mollis-urna/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

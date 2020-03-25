@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>facilisi odio on </title>
+    <link>https://www.example.org/categories/facilisi-odio/</link>
+    <description>Recent content in facilisi odio on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 18 May 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://www.example.org/categories/facilisi-odio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>enim ultricies dolore metus ac eiusmod interdum</title>
+      <link>https://www.example.org/blog/post_2/</link>
+      <pubDate>Fri, 18 May 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://www.example.org/blog/post_2/</guid>
+      <description>non tempor mauris elementum semper Interdum dolor sit etiam aenean ac fermentum auctor cursus nulla tellus purus justo. Ullamcorper elit do tincidunt auctor sit leo, pulvinar scelerisque do fringilla nisi porttitor fermentum. Tellus elit mauris lobortis iaculis mus morbi nunc lacus. Velit placerat facilisis varius odio purus sociis elementum morbi. Dignissim congue nulla diam aenean mi commodo quisque egestas amet mattis posuere lobortis. Tristique laoreet mus diam tellus vestibulum scelerisque ipsum, rhoncus mollis sed consequat natoque eget sem.</description>
+    </item>
+    
+  </channel>
+</rss>
