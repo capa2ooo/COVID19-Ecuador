@@ -1,0 +1,90 @@
+body {
+  font-family: "Roboto", sans-serif;
+  overflow-y: scroll;
+  transition: all 0.15s;
+  background-color: var(--primaryBg);
+  color: var(--primaryText);
+}
+code {
+  font-family: "Roboto Mono", monospace !important;
+  font-size: 0.9em !important;
+}
+footer {
+  font-size: 0.9em !important;
+}
+dt {
+  font-weight: 400;
+}
+h1,
+h2,
+h3,
+h4 {
+  font-family: "Didact Gothic", sans-serif;
+}
+a,
+a:hover,
+.accordion,
+.accordion:hover {
+  color: var(--primaryLinks);
+}
+.profile-area a,
+.profile-area .accordion:hover,
+.social-icons * {
+  color: var(--secondaryLinks);
+}
+.fa-toggle-on,
+.fa-toggle-off {
+  color: var(--primaryLinks);
+}
+.skillbar {
+  background-color: var(--primaryBg);
+  border: solid 1px var(--primaryText);
+}
+#skill-percent {
+  background-color: var(--primaryLinks);
+}
+.profile-area {
+  background-color: var(--secondaryBg);
+  color: var(--secondaryText);
+}
+.shadow {
+  box-shadow: -4px -4px 5px 2px var(--shadow) !important;
+}
+.top-h1 {
+  font-size: 2.5em;
+}
+.zoomlink {
+  font-size: 2em;
+}
+.zoomlink:hover {
+  font-size: 1.9em;
+  cursor: pointer;
+}
+.panel {
+  max-height: 0;
+  transition: 0.3s ease-out;
+}
+.skillbar {
+  border-radius: 3px;
+}
+#skill-percent {
+  height: 15px;
+  transition: all 0.7s;
+}
+.pagination * {
+  background-color: var(--primaryBg) !important;
+  color: var(--primaryLinks) !important;
+}
+.page-item {
+  border: solid 1px var(--primaryLinks) !important;
+}
+.page-item.disabled * {
+  color: var(--primaryText) !important;
+}
+.page-item.active * {
+  color: var(--secondaryText) !important;
+  background-color: var(--secondaryBg) !important;
+}
+.aafu-border {
+  border-color: var(--primaryLinks) !important;
+}

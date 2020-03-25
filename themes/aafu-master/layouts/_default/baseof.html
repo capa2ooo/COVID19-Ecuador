@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+  {{- partial "head.html" . -}}
+  <body class="container">
+    <main style="min-height: calc(100vh - 60px);">
+      {{ if not .Site.Params.theme.singlepage }}
+      {{ partial "header" . }}
+      {{ end }}
+      {{- block "main" . }}
+      {{- end }}
+    </main>
+    {{ if and (not .IsHome) (not .Site.Params.theme.singlepage) }}
+    {{ partial "footer" . }}
+    {{ end }}
+  </body>
+</html>

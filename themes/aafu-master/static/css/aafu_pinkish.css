@@ -1,0 +1,9 @@
+:root {
+  --primaryBg: #f8f9fa;
+  --primaryText: black;
+  --primaryLinks: #81415f;
+  --secondaryBg: #81415f;
+  --secondaryText: white;
+  --secondaryLinks: #ffc107;
+  --shadow: #595659;
+}
