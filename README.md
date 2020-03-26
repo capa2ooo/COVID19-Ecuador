@@ -11,4 +11,6 @@ In other folder named PAPERS we have the articles and information that we going 
 
 In the folder COE we have the images that the COE is publishing twice daily with the relevant information of COVID in EC
 
-Finally, in the folder IMAGES & PUBLISHING are located the information that the team is made available to the public.
+In the folder IMAGES & PUBLISHING are located the information that the team is made available to the public.
+
+We are develop a Hugo's website
